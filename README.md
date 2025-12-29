@@ -17,9 +17,9 @@ To access the live production server (Main Website), please use the official gat
 
 | Server Region | Status | Access Link |
 | :--- | :--- | :--- |
-| **ID (Indonesia)** | 🟢 **ONLINE** | [**LOGIN MAWARSLOT RESMI**](https://mawarslot.store) |
+| **ID (Indonesia)** | 🟢 **ONLINE** | [**LOGIN MAWARSLOT RESMI**](https://mawarslot.it.com) |
 | **VIP Node** | 🟢 **ONLINE** | [**DAFTAR AKUN VIP**](https://mawarslot.store) |
-| **RTP Live** | 🟢 **ONLINE** | [**CEK POLA GACOR**](https://mawarslot.store) |
+| **RTP Live** | 🟢 **ONLINE** | [**CEK POLA GACOR**](https://mawarslot.site) |
 
 ## 💻 Code Example (RTP Logic)
 ```javascript
